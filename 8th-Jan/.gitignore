@@ -1,0 +1,15 @@
+# Python cache
+__pycache__/
+
+# Virtual environment
+venv/
+env/
+
+# Uploaded files (only in data folder)
+data/uploaded_pdfs/*
+
+# Environment variables
+.env
+
+# IDE
+.vscode/
